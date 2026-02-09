@@ -1,4 +1,4 @@
-# notification-lib – Backend Challenge
+# Notification-libreria – Backend Challenge
 
 Librería modular para el envío de notificaciones Email, SMS y Push,
 diseñada con principios de código limpio y extensibilidad.
